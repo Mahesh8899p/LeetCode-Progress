@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0169-majority-element) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0229-majority-element-ii) |
 ## Sorting
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
