@@ -42,9 +42,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mahesh8899p/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
